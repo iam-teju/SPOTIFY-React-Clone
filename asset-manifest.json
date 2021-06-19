@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SPOTIFY-React-Clone/static/css/main.804cb046.chunk.css",
+    "main.js": "/SPOTIFY-React-Clone/static/js/main.b29e9a85.chunk.js",
+    "main.js.map": "/SPOTIFY-React-Clone/static/js/main.b29e9a85.chunk.js.map",
+    "runtime-main.js": "/SPOTIFY-React-Clone/static/js/runtime-main.562d767e.js",
+    "runtime-main.js.map": "/SPOTIFY-React-Clone/static/js/runtime-main.562d767e.js.map",
+    "static/js/2.41e8b8ae.chunk.js": "/SPOTIFY-React-Clone/static/js/2.41e8b8ae.chunk.js",
+    "static/js/2.41e8b8ae.chunk.js.map": "/SPOTIFY-React-Clone/static/js/2.41e8b8ae.chunk.js.map",
+    "static/js/3.518a6998.chunk.js": "/SPOTIFY-React-Clone/static/js/3.518a6998.chunk.js",
+    "static/js/3.518a6998.chunk.js.map": "/SPOTIFY-React-Clone/static/js/3.518a6998.chunk.js.map",
+    "index.html": "/SPOTIFY-React-Clone/index.html",
+    "static/css/main.804cb046.chunk.css.map": "/SPOTIFY-React-Clone/static/css/main.804cb046.chunk.css.map",
+    "static/js/2.41e8b8ae.chunk.js.LICENSE.txt": "/SPOTIFY-React-Clone/static/js/2.41e8b8ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.562d767e.js",
+    "static/js/2.41e8b8ae.chunk.js",
+    "static/css/main.804cb046.chunk.css",
+    "static/js/main.b29e9a85.chunk.js"
+  ]
+}
